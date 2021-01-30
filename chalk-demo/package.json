@@ -1,0 +1,27 @@
+{
+  "name": "chalk-demo",
+  "version": "1.0.0",
+  "description": "Utilizes the chalk library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bimalendu",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bimalendu/node-experiments.git"
+  },
+  "keywords": [
+    "chalk",
+    "demo"
+  ],
+  "bugs": {
+    "url": "https://github.com/bimalendu/node-experiments/issues"
+  },
+  "homepage": "https://github.com/bimalendu/node-experiments#readme"
+}
