@@ -1,4 +1,4 @@
 const chalk = require('chalk');
 const log = console.log;
 
-log(chalk.bold.bgGreen('Success!'));
+log(chalk.bold.green('Success!'));
